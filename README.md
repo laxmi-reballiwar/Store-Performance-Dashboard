@@ -1,14 +1,14 @@
 # Store-Performance-Dashboard
 This project presents an interactive Superstore Sales Dashboard built using Power BI to analyze business performance across sales, profit, customers, and products.
 
-🎯 Objective
+# 🎯 Objective
 - To analyze Superstore sales and profit performance using interactive visualizations
 - To identify customer, regional, and product-level business insights
 - To track key KPIs such as Sales, Profit, Orders, and Profit Margin
 - To enable data-driven decision-making through filters, drill-down, and dashboard interactivity
 - To create a clean, user-friendly, and insight-driven Power BI dashboard
 
-🎯 Key Features
+# 🎯 Key Features
 - KPI Cards: Total Sales, Profit, Orders, Profit Margin
 - Interactive Slicers: Year, Region, Category
 - Drill-Down Analysis: Category → Sub-Category → Product
@@ -17,7 +17,7 @@ This project presents an interactive Superstore Sales Dashboard built using Powe
 - Gauge Visual: Sales vs Target comparison
 - Reset & Navigation Buttons for better usability
 
-📄 Dashboard Structure
+# 📄 Dashboard Structure
 
 Sheet 1 – Overview
 - KPI summary
@@ -34,18 +34,18 @@ Sheet 3 – Product & Shipping Analysis
 - Shipping mode analysis
 - Delivery performance
 
-🛠 Tools & Technologies
+# 🛠 Tools & Technologies
 Power BI
 - DAX (for calculated measures)
 - Data Cleaning using Power Query
 
-📈 Key Insights
+# 📈 Key Insights
 - category contributes highest profit
 - West region shows strong sales performance
 - Some sub-categories generate losses
 - Standard shipping is most frequently used
 
-🚀 Purpose
+# 🚀 Purpose
 This project demonstrates:
 
 - Data visualization skills
