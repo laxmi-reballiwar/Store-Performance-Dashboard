@@ -8,7 +8,7 @@ This project presents an interactive Superstore Sales Dashboard built using Powe
 - To enable data-driven decision-making through filters, drill-down, and dashboard interactivity
 - To create a clean, user-friendly, and insight-driven Power BI dashboard
 
-  🎯 Key Features
+🎯 Key Features
 - KPI Cards: Total Sales, Profit, Orders, Profit Margin
 - Interactive Slicers: Year, Region, Category
 - Drill-Down Analysis: Category → Sub-Category → Product
