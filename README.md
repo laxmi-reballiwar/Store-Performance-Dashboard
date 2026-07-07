@@ -50,6 +50,6 @@ This project demonstrates:
 
 - Data visualization skills
 - Business insight generation
-- Dashboard design and interactivity.
+- Dashboard design and interactivity
 
 
